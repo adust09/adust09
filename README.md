@@ -21,7 +21,7 @@ Education
 Experience
 ----------
 
-**My student days**
+**🧑‍🎓My student days**
 
 I worked for [Chaintope](https://www.chaintope.com/en/), [HashHub](https://hashhub.tokyo/) as an application developer and Auditor. \
 Around this time, I started a research and development group on blockchain, [bitpickers](https://scrapbox.io/bitpickers/), with a friend. \
@@ -35,52 +35,54 @@ In particular, with regard to UXDEX, it was acquired in the form of incorporatio
 
 In addition to these, my idea was nominated for the Innovator Creation Project ([異能-vation](https://www.inno.go.jp/result/2021/generation/nominate/)) sponsored by the Japanese government.
 
-**My New grad days**
+**🔰My New grad days**
 
 I decided to join [Rakuten](https://global.rakuten.com/corp/) where I can acquire both engineering and English skills. I was mainly involved in the development and operation of a web application that would serve as a hub for the company's financial services.
 
 In this context, I tried to improve the productivity of the development team using Jenkins, and to introduce React into an environment that had been unified with Java to build richer applications.
 
-**Side job**
+**🤫Side job**
+
 The fever for crypto has not died down. I worked for [Ryodan Systems](https://ryodan.systems/), the developer of [Intmax](https://intmax.io/) (zk-Rollup), as a developer.
 My experience here was very meaningful and a job I can take to my heart's content.
 
-**Current work**
+**😺Current work**
+
 I participated in [ETH Global Tokyo](https://ethglobal.com/events/tokyo). [Layer Horizon](https://ethglobal.com/showcase/layerhorizon-bq5st), which we created here, was well received, so we will continue to develop it.
 
 Technical Experience
 --------------------
 
-Bitpickers Reseach
+**Bitpickers Reseach**
 
-:   My knowledge of Ethereum, crypto theory, and blockchain can be referenced here. I haven't been able to look into it much lately.
+   My knowledge of Ethereum, crypto theory, and blockchain can be referenced here. I haven't been able to look into it much lately.
 
-    https://scrapbox.io/bitpickers/
+   https://scrapbox.io/bitpickers/
 
-Strengths
+**Strengths**
 
-:   - I have the necessary stack for crypto such as hardhat, ethers, zk, solidity... etc
-    - I can design and operate CI/CD pipelines from scratch.
-    - I can manage teams and design architecture. If it is at the hackathon level.
-    - I can debug using Docker or VS code and so on.
-    - I can design a DB.
+   - I have the necessary stack for crypto such as hardhat, ethers, zk, solidity... etc 
+   - I can design and operate CI/CD pipelines from scratch. 
+   - I can manage teams and design architecture. If it is at the hackathon level. 
+   - I can debug using Docker or VS code and so on. 
+   - I can design a DB. 
 
-Weaknesses
+**Weaknesses**
 
-:   - Full stack, for better or worse.
-    - Little experience in cloud development.
+   - Full stack, for better or worse. 
+   - Little experience in cloud development. 
 
-Programming Languages
+**Programming Languages**
 
-:   **Rust:** It is my favorite language, and I have experience in developing Vertual Machine, CRUD operations on Data Base using Diesel, and using libraries for cryptographic systems.
+   - Rust: It is my favorite language, and I have experience in developing Vertual Machine, CRUD operations on Data Base using Diesel, and using libraries for cryptographic systems.
 
-:   **Java:** At Rakuten, I mainly wrote Java. I hate to make the statement too long, but I learned a lot from design patterns. I can do web development mainly using Spring boot and maintain DB, API.
+   - Java: At Rakuten, I mainly wrote Java. I hate to make the statement too long, but I learned a lot from design patterns. I can do web development mainly using Spring boot and maintain DB, API.
 
-:   **Typescript:** I often write React in my work and at hackathons, and I learned it in the process of creating them.
+   - Typescript: I often write React in my work and at hackathons, and I learned it in the process of creating them.
 
-:   **Dart(Flutter):** While at Chaintope, I worked on mobile app development using Flutter for two years. I haven't touched it much recently.
+   - Dart(Flutter): While at Chaintope, I worked on mobile app development using Flutter for two years. I haven't touched it much recently.
 
-:   Basic knowledge of **C**, **Shell script**, **Ruby**, **Python**
+   - Basic knowledge of C, Shell script, Ruby, Python
 
 
 Extra Section
