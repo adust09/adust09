@@ -54,7 +54,7 @@ Technical Experience
 Bitpickers Reseach
 :   My knowledge of Ethereum, crypto theory, and blockchain can be referenced here. I haven't been able to look into it much lately.
 
-    * https://scrapbox.io/bitpickers/
+    https://scrapbox.io/bitpickers/
 
 Strengths
 :   - I have the necessary stack for crypto such as hardhat, ethers, zk, solidity... etc
