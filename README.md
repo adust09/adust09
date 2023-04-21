@@ -84,6 +84,12 @@ Technical Experience
 
    - Basic knowledge of C, Shell script, Ruby, Python
 
+Recent Interests
+--------------------
+
+- Interested in Go language and management skills.
+- Want to contribute to humanity through ethereum. In particular, I want to develop zk-Rollup and clients.
+- Ultimately, I am interested in the monetary system when mankind goes to space.
 
 Extra Section
 ----------------------------------------
