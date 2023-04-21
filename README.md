@@ -52,11 +52,13 @@ Technical Experience
 --------------------
 
 Bitpickers Reseach
+
 :   My knowledge of Ethereum, crypto theory, and blockchain can be referenced here. I haven't been able to look into it much lately.
 
     https://scrapbox.io/bitpickers/
 
 Strengths
+
 :   - I have the necessary stack for crypto such as hardhat, ethers, zk, solidity... etc
     - I can design and operate CI/CD pipelines from scratch.
     - I can manage teams and design architecture. If it is at the hackathon level.
@@ -64,10 +66,12 @@ Strengths
     - I can design a DB.
 
 Weaknesses
+
 :   - Full stack, for better or worse.
     - Little experience in cloud development.
 
 Programming Languages
+
 :   **Rust:** It is my favorite language, and I have experience in developing Vertual Machine, CRUD operations on Data Base using Diesel, and using libraries for cryptographic systems.
 
 :   **Java:** At Rakuten, I mainly wrote Java. I hate to make the statement too long, but I learned a lot from design patterns. I can do web development mainly using Spring boot and maintain DB, API.
