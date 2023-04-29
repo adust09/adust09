@@ -50,6 +50,8 @@ My experience here was very meaningful and a job I can take to my heart's conten
 
 I participated in [ETH Global Tokyo](https://ethglobal.com/events/tokyo). [Layer Horizon](https://ethglobal.com/showcase/layerhorizon-bq5st), which we created here, was well received, so we will continue to develop it.
 
+
+
 Technical Experience
 --------------------
 
@@ -62,10 +64,10 @@ Technical Experience
 **Strengths**
 
    - I have the necessary stack for crypto such as hardhat, ethers, zk, solidity... etc 
-   - I can design and operate CI/CD pipelines from scratch. 
-   - I can manage teams and design architecture. If it is at the hackathon level. 
-   - I can debug using Docker or VS code and so on. 
-   - I can design a DB. 
+   - CI/CD and TDD methodologies
+   - Team Management
+   - Debugging
+   - DB design 
 
 **Weaknesses**
 
