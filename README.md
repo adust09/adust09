@@ -50,6 +50,8 @@ My experience here was very meaningful and a job I can take to my heart's conten
 
 I participated in [ETH Global Tokyo](https://ethglobal.com/events/tokyo). [Layer Horizon](https://ethglobal.com/showcase/layerhorizon-bq5st), which we created here, was well received, so we will continue to develop it.
 
+**Next job**
+Hana Network 2023/7/1~
 
 
 Technical Experience
@@ -73,6 +75,13 @@ Technical Experience
 
    - Full stack, for better or worse. 
    - Little experience in cloud development. 
+ 
+**Tools**
+- Framework: React, Flutter, Spring boot
+- Cloud: AWS(EC2, S3, CodeBuild...etc)
+- DI/CD: Jenkins, Github Actions
+- DB: PostgresSQL, MySQL, Firebase
+- Git: Github, Bitbucket
 
 **Programming Languages**
 
