@@ -25,6 +25,8 @@ Founded and lead a Tokyo-based zero-knowledge and advanced-cryptography research
 ## Selected Work
 
 - **[Verity](https://github.com/NyxFoundation/verity)** — A provable Ethereum consensus client built with Lean 4 and Rust.
+- **Ethereum Foundation Grantee (Mar 2025–Jul 2025)** — **[VOLE itH on Ethereum](https://github.com/adust09/VOLEitH-on-Ethereum):** Measured and analyzed the feasibility of on-chain verification of VOLE itH.
+- **[Mastering Ethereum — Japanese Edition](https://github.com/adust09/ethereumbook-develop-jp)** — Maintainer of the Japanese translation project for *Mastering Ethereum: 2nd Edition*.
 - **[libp2p-hs](https://github.com/adust09/libp2p-hs)** — A Haskell implementation of the libp2p networking stack.
 - **Merkle Japan programs** — [Core Program 2025](https://github.com/zk-tokyo/core-program-2025) and [Advanced Cryptography 2026](https://github.com/zk-tokyo/advanced-cryptography-2026), community programs for zero-knowledge and advanced cryptography.
 
